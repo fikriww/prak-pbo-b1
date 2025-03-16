@@ -1,7 +1,5 @@
 /* Nama File : DosenTamu.java
  * Deskripsi : Berisi atribut dan method dalam subclass Dosen Tamu
- * Pembuat : Gaza Al Ghozali Chansa / 24060123140183
- * Tanggal : Selasa, 12 Maret 2025
  */
 
  import java.time.LocalDate;
