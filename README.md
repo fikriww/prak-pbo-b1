@@ -16,6 +16,6 @@ Cipta 24060123140172 Wiratama
 - [`Pertemuan4`](https://github.com/fikriww/prak-pbo-b1/tree/main/Pertemuan4umL)
 
 ![Untitled-2025-03-16-1643](https://github.com/user-attachments/assets/b9749500-1aca-43ea-9499-081c1c504007)
-<img src="https://github.com/user-attachments/assets/b9749500-1aca-43ea-9499-081c1c504007" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/b9749500-1aca-43ea-9499-081c1c504007" width="600" height="600">
 ![MainHasil](https://github.com/user-attachments/assets/a6329e04-c98a-4ccd-9c4a-63cd19cfb7e3)
 - [`Pertemuan5 incoming`]
