@@ -17,4 +17,7 @@ Cipta 24060123140172 Wiratama
 
 <img src="https://github.com/user-attachments/assets/b9749500-1aca-43ea-9499-081c1c504007" width="400" height="475.66"><img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan4umL/src/MainHasil.jpg?raw=true" width="400" height="451">
 
-- [`Pertemuan5 incoming=)`]
+- [`Pertemuan5`](https://github.com/fikriww/prak-pbo-b1/tree/main/Pertemuan5tugas)
+<img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan5tugas/Screenshot%202025-03-24%20at%2002.56.37.png?raw=true" width="500" height="488">
+
+- [`Pertemuan6 inc `]
