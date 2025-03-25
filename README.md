@@ -20,4 +20,6 @@ Cipta 24060123140172 Wiratama
 - [`Pertemuan5`](https://github.com/fikriww/prak-pbo-b1/tree/main/Pertemuan5tugas)
 <img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan5tugas/Screenshot%202025-03-24%20at%2002.56.37.png?raw=true" width="500" height="488">
 
-- [`Pertemuan6 inc `]
+- [`Pertemuan6 `](https://github.com/fikriww/prak-pbo-b1/tree/main/Pertemuan6responsi)
+ 
+<img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan6responsi/src/Screenshot%202025-03-25%20at%2016.28.08.png?raw=true" width="500" height="928.57">
