@@ -3,6 +3,15 @@ prak-pbo-b1
 Cipta 24060123140172 Wiratama 
 --
 *hasil praktikum tiap minggu ( descending )*
+- [`Pertemuan10-PBO07 `](https://github.com/fikriww/prak-pbo-b1/tree/main/Pert10%3APBO07)
+
+
+<img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pert10:PBO07/HasilAnabulApp.png?raw=true" width="400" height="475.66"><img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pert10:PBO07/HasilTestSenjata.png?raw=true" width="400" height="451">
+
+- [`Pertemuan9-PBO06 `](https://github.com/fikriww/prak-pbo-b1/tree/main/pertemuan9b)
+
+<img src="https://github.com/fikriww/prak-pbo-b1/blob/main/pertemuan9b/src/Hasil%20Run.png?raw=true">
+
 - [`Pertemuan6 `](https://github.com/fikriww/prak-pbo-b1/tree/main/Pertemuan6responsi)
  
 <img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan6responsi/src/Screenshot%202025-03-25%20at%2016.28.08.png?raw=true" width="500" height="928.57">
