@@ -3,6 +3,15 @@ prak-pbo-b1
 Cipta 24060123140172 Wiratama 
 --
 *hasil praktikum tiap minggu ( descending )*
+- [`Pertemuan13b-PBO10 `](https://github.com/fikriww/prak-pbo-b1/tree/main/jdbc_mhs_service_jgnerror)
+- <img src="https://github.com/fikriww/prak-pbo-b1/blob/main/jdbc_mhs_service_jgnerror/GIF13b_1_CR.gif">
+- <img src="https://github.com/fikriww/prak-pbo-b1/blob/main/jdbc_mhs_service_jgnerror/GIF13b_2_U.gif">
+- <img src="https://github.com/fikriww/prak-pbo-b1/blob/main/jdbc_mhs_service_jgnerror/GIF13b_3_D.gif">
+
+- [`Pertemuan13a-PBO10 `](https://github.com/fikriww/prak-pbo-b1/tree/main/GUi0)
+- <img src="https://github.com/fikriww/prak-pbo-b1/blob/main/GUi0/GIF13a.gif">
+
+
 - [`Pertemuan11-PBO08 `](https://github.com/fikriww/prak-pbo-b1/tree/main/Pertemuan11-PBO08)
 
 <img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan11-PBO08/src/tugas34/HasilRun3.4..png?raw=true"><img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan11-PBO08/src/tugas35/HasilRunTugas3.5..png?raw=true"><img src="https://github.com/fikriww/prak-pbo-b1/blob/main/Pertemuan11-PBO08/src/tugas36/HasilRunTugas3.6..png?raw=true">
